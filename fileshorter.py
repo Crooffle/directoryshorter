@@ -16,7 +16,7 @@ def organize_files(directory):
         "Musik": [".mp3", ".wav", ".aac", ".flac"],
         "Arsip": [".zip", ".rar", ".7z", ".tar", ".gz"],
         "Program": [".exe", ".msi"],
-        "Code": [".py", ".java", ".cpp", ".js", ".html", ".css", ".php"],
+        "Code": [".py", ".java", ".cpp", ".js", ".html", ".css", ".php", ".c"],
     }
 
     #Buat folder pada sistem
